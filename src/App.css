@@ -1,0 +1,21 @@
+.product {
+  width: fit-content;
+  padding: 20px;
+  margin: 10px;
+  background-color: lightgrey;
+
+}
+
+.App {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.user {
+  width: 20%;
+  padding: 20px;
+  margin: 10px;
+  background-color: lightgrey;
+
+}
+
